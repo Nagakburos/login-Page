@@ -5,7 +5,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: linear-gradient(#373a3f, #373a3f);
+    background: linear-gradient(#000000, #000000);
 }
 .login-box{
     position: absolute;
@@ -14,7 +14,7 @@ body{
     width: 400px;
     padding: 40px;
     transform: translate(-50%, -50%);
-    background: rgba(green, blue, .6  alpha);
+    background: rgba(green, blue, .6 alpha);
     border-radius: 10px;
 }
 .login-box h2{
